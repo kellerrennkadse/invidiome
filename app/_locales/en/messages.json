@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "InvidioMe",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "InvidioMe",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Convert any YouTube Links and Videos to Invidio Links",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "InvidioMe",
+    "description": "The title of the browser action button"
+  }
+}
